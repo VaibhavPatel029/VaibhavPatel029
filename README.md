@@ -1,6 +1,6 @@
 ## Hey there, I'm Vaibhav!
 
-<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210">
+<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="250">
 
 <a href="https://www.linkedin.com/in/vaibhav-dangariya-003631175/">
   <img align="left" alt="vaibhav-dangariya-003631175 | LinkedIn" width="20px" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/linkedin.jpg" />
