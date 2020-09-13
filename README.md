@@ -20,7 +20,7 @@
 
 - 🎓 I'm currently pursuing **Bachelors in IT Engineering** (Final Year) from **Marwadi University**.
 - 🌱 I'm currently learning from **Coursera**, **Kaggle** and **youtube**.
-- 💻 I'm looking for an **internship** in **Machine Learning** and **Deep Learning** domain
+- 💻 I'm looking for an **internship** in **Machine Learning** and **Deep Learning** domain.
 - 🤝🏻 I'm open for collaborations in**Machine Learning** and **Deep Learning** domains.
 - 🎯 Goal (2020): **Contribute** openly to **Data Science and Machine Learning community**.
 - 📌 Scroll down to see my **Pinned Repositories**.
@@ -28,7 +28,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/Pyton.jpg"></code>
+<code><img height="30" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/Pyton.jpg"></code>
 <code><img height="20" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/cPP.jpg"></code>
 <code><img height="20" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/Java.jpg"></code>
 <code><img height="20" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/ten.jpg"></code>
