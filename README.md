@@ -19,12 +19,10 @@
 <br />
 
 - 🎓 I'm currently pursuing **Bachelors in IT Engineering** (Final Year) from **Marwadi University**.
-- 🌱 I'm currently learning from **Coursera**, **Kaggle** and **youtube**.
-- 💻 I'm looking for an **internship** in **Machine Learning** and **Deep Learning** domain.
-- 🤝🏻 I'm open for collaborations in**Machine Learning** and **Deep Learning** domains.
-- 🎯 Goal (2020): **Contribute** openly to **Data Science and Machine Learning community**.
+- 📚 I’m currently learning React, Javascript, TypeScript, Nodejs and Firebase....
+- 🤝🏻 I’m looking to collaborate with other passionate developers.
+- 🎯 Goal (2021): **Contribute** openly to **Open Source projects**.
 - 📌 Scroll down to see my **Pinned Repositories**.
-
 
 **Languages and Tools:**  
 
