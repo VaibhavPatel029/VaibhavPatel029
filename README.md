@@ -33,6 +33,8 @@
 <code><img height="30" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/sql.png"></code>
 <code><img height="30" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/firebase.png"></code>
 <code><img height="30" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/sql.png"></code>
+<code><img height="30" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/html.png"></code>
+<code><img height="30" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/css.png"></code>
 <code><img height="30" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/cPP.jpg"></code>
 <code><img height="30" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/Java.jpg"></code>
 <code><img height="30" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/ten.jpg"></code>
