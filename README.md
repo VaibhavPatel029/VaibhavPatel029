@@ -26,7 +26,13 @@
 
 **Languages and Tools:**  
 
-<code><img height="30" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/Pyton.jpg"></code>
+<code><img height="30" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/javascript.png"></code>
+<code><img height="30" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/react.png"></code>
+<code><img height="30" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/nodejs.png"></code>
+<code><img height="30" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/mongodb.png"></code>
+<code><img height="30" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/sql.png"></code>
+<code><img height="30" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/firebase.png"></code>
+<code><img height="30" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/sql.png"></code>
 <code><img height="30" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/cPP.jpg"></code>
 <code><img height="30" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/Java.jpg"></code>
 <code><img height="30" src="https://github.com/VaibhavPatel029/Images-for-profile/blob/master/ten.jpg"></code>
