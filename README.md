@@ -18,7 +18,7 @@
 <br />
 <br />
 
-- 🎓 I'm currently pursuing **Bachelors in IT Engineering** (3rd Year) from **Marwadi University**.
+- 🎓 I'm currently pursuing **Bachelors in IT Engineering** from **Marwadi University**.
 - 📚 I’m currently learning React, Javascript, TypeScript, Nodejs, Firebase, ML, NLP, and Deep Learing ..
 - 🤝🏻 I’m looking to collaborate with other passionate developers.
 - 🎯 Goal (2021): **Contribute** openly to **Open Source projects**.
